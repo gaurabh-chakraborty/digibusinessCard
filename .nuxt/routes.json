@@ -1,0 +1,16 @@
+[
+  {
+    "name": "hosting-guide",
+    "path": "/hosting-guide",
+    "component": "/Users/gaurabhchakraborty/Downloads/EnBizCard-master/pages/hosting-guide/index.vue",
+    "chunkName": "pages/hosting-guide/index",
+    "_name": "_3b28e114"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/gaurabhchakraborty/Downloads/EnBizCard-master/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_7a7b1cdc"
+  }
+]
